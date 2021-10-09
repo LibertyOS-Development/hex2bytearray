@@ -1,0 +1,9 @@
+[package]
+name = "hex2bytearray"
+version = "0.1.0"
+edition = "2018"
+authors = ["Daniel P. Teberian"]
+description = "A simple crate to convert hexadecimal strings to byte-arrays."
+license = "Apache-2.0"
+categories = ["no-std"]
+repository = "https://github.com/LibertyOS-Development/hex2bytearray"
